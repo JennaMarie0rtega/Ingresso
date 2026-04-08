@@ -94,4 +94,6 @@ Que cada momento de calma seja apenas ilusão
 
 Que tudo desande quando menos esperarem
 
-Ao contrario! Que tudo isso aconteça ao contrário na vida deles! Trazendo paz e alegria.
+Ao contrario! Que tudo isso aconteça ao contrário na vida deles! Trazendo paz e alegria!
+
+Esta amarrado em nome do senhor Jesus! ✝️🙏
