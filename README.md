@@ -6,9 +6,9 @@ Que a paz nunca encoste nem de raspão na vida deles
 
 Que tudo que tentarem construir desmorone igual castelo de areia
 
-Que a sorte fuja deles como se fossem amaldiçoados
+Que a sorte fuja deles 
 
-Que cada noite seja inquieta, perturbada e cheia de peso
+Que cada noite seja inquieta, perturbada e cheia vela preta
 
 Que o silêncio traga desgraça e Nome na boca do Sapo
 
@@ -16,7 +16,7 @@ Que toda alegria se transforme em frustração
 
 Que tudo que tocarem apodreça com o tempo
 
-Que os caminhos deles sejam sempre os mais difíceis
+Que os caminhos deles sejam sempre os mais fudidos
 
 Que toda escolha leve ao arrependimento
 
