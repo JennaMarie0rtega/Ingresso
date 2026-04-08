@@ -62,6 +62,7 @@ public class Main {
                         System.out.println("Encerrando...... By Order of the Peaky Blinders!");
                         Thread.sleep(1000);
                         System.exit(0);
+
                     } else {
                         System.out.println("\n");
                         System.out.println("Resposta inválida.");
