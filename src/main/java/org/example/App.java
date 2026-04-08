@@ -11,26 +11,11 @@ import java.util.Scanner;
 
 public class App {
 
-    public static void main(String[] args) throws Exception {
+    public static boolean xiri() throws Exception {
 
         Scanner terminal = new Scanner(System.in);
+        bl pararWhile = new bl();
         System.out.println("\n\n\n\n\n");
-        System.out.println("╔══════════════════════════╗");
-        System.out.println("║                          ║");
-        System.out.println("║    SHELBY COMPANY LTD.   ║");
-        System.out.println("║  The Small Heath Rifles  ║");
-        System.out.println("║                          ║");
-        System.out.println("╠══════════════════════════╣");
-        System.out.println("║                          ║");
-        System.out.println("║     C I N E M I N H A    ║");
-        System.out.println("║       R E S E N H A      ║");
-        System.out.println("║                          ║");
-        System.out.println("║       ── 365 DNI ──      ║");
-        System.out.println("║                          ║");
-        System.out.println("╚══════════════════════════╝");
-        System.out.println("");
-        System.out.println("[ Aperte ENTER para entrar ]");
-        terminal.nextLine();
 
         while (true) {
 
@@ -135,10 +120,11 @@ public class App {
             String resposta = terminal.nextLine();
 
             if (resposta.equals("2")) {
-                System.out.println("Encerrando...... By Order of the Peaky Blinders!");
+                System.out.println("Voltando, by Order of the Peaky Blinders!");
+                pararWhile.parar = true;
                 Thread.sleep(1000);
-                break;
-            }
+                return true;
+            }return false;
         }
     }
 }
