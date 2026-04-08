@@ -18,6 +18,22 @@ Que o Exu Tranca Ruas feche todas as portas que ele tentar abrir
 
 Deixando-o preso em um corredor de espinhos onde não há saída.
 
+Que a fúria de Iansã traga a tempestade que destruirá a casa de Kayla,
+
+Mas que não seja chuva, e sim brasas que queimem sua paz de espírito.
+
+Que o Exu Sete Encruzilhadas confunda cada passo que ela der,
+
+Para que ela se perca de si mesma e nunca mais encontre o retorno.
+
+Que o povo da rua, os soldados da calada da noite, vigiem seus sonhos,
+
+Transformando o descanso em um campo de batalha de pesadelos reais.
+
+Que a mão pesada de Omulu cubra a pele de todos vocês com amargura,
+
+E que o cheiro da podridão acompanhe os seus passos onde quer que vão.
+
 Que cada noite seja inquieta, perturbada e cheia vela preta
 
 Que o silêncio traga desgraça e Nome na boca do Sapo
