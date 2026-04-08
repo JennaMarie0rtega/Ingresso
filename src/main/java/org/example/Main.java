@@ -60,6 +60,8 @@ public class Main {
                         break;
                     } else if (rFilmes.equalsIgnoreCase("3")) {
                         System.out.println("Encerrando...... By Order of the Peaky Blinders!");
+                        Thread.sleep(1000);
+                        System.exit(0);
                     } else {
                         System.out.println("\n");
                         System.out.println("Resposta inválida.");
