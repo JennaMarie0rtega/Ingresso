@@ -2,11 +2,21 @@ Que toda desgraça que vagueia na escuridão encontre o caminho até Vanessa, He
 
 Que cada passo deles seja acompanhado pelos exus Iorubas e Tranca Ruas
 
-Que a paz nunca encoste nem de raspão na vida deles
+Eu chamo as falanges do submundo para que cerquem Vanessa,
 
-Que tudo que tentarem construir desmorone igual castelo de areia
+Que a Pomba Gira das Almas gire no meio do seu caminho para a perder,
 
-Que a sorte fuja deles 
+Que Exu Caveira cave a cova de todos os seus planos e desejos,
+
+E que o cemitério seja a única morada para as suas esperanças mortas.
+
+Que as gargalhadas das entidades da noite ecoem no ouvido de Andre,
+
+Fazendo com que ele perca o juízo, o rumo e a vontade de existir.
+
+Que o Exu Tranca Ruas feche todas as portas que ele tentar abrir
+
+Deixando-o preso em um corredor de espinhos onde não há saída.
 
 Que cada noite seja inquieta, perturbada e cheia vela preta
 
