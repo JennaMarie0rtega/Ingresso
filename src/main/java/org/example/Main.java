@@ -17,7 +17,7 @@ public class Main {
 
             while (true) {
 
-                System.out.println("\n\n\n\n\n");
+                System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
                 System.out.println("╔══════════════════════════╗");
                 System.out.println("║                          ║");
                 System.out.println("║    SHELBY COMPANY LTD.   ║");
@@ -35,6 +35,7 @@ public class Main {
                 System.out.println("[1] Consulta de Filmes No Cinema");
                 System.out.println("[2] Filmes Assistidos");
                 System.out.println("[3] Sair");
+                System.out.println("\n\n\n\n\n");
                 String rFilmes = "";
 
                 App consulta = new App();

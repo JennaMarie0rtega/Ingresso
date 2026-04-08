@@ -115,14 +115,14 @@ public class App {
                 e.printStackTrace();
             }
 
-            System.out.println("\n1 - Nova consulta / Voltar ao início");
-            System.out.println("2 - Sair");
+            System.out.println("\n[1] Nova consulta ");
+            System.out.println("[2] - Voltar ao Menu");
             String resposta = terminal.nextLine();
 
             if (resposta.equals("2")) {
-                System.out.println("Voltando, by Order of the Peaky Blinders!");
+                System.out.println("Voltando!");
                 pararWhile.parar = true;
-                Thread.sleep(1000);
+                Thread.sleep(500);
                 return true;
             }return false;
         }
