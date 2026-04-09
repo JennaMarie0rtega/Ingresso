@@ -120,6 +120,8 @@ public class Main {
                 // que toda umbanda do inferno atinja a Kayla e que ela fique possuida durante a madrugada ae
             } else if (resposta.equalsIgnoreCase("2")) {
 
+                pl.pularLinha(100);
+
                 for (Filmes f : filmes) {
                     System.out.println("┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐");
                     System.out.println("  Nome     : " + f.nome);
@@ -135,7 +137,7 @@ public class Main {
                 terminal.nextLine();
             } else if (resposta.equalsIgnoreCase("3")) {
                 System.out.println("Voltando!");
-                Thread.sleep(1000);
+                Thread.sleep(500);
                 continue menuprincipal;
             }
 

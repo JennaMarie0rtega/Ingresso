@@ -116,10 +116,12 @@ public class App {
             }
 
             System.out.println("\n[1] Nova consulta ");
-            System.out.println("[2] - Voltar ao Menu");
+            System.out.println("[2] Voltar ao Menu");
             String resposta = terminal.nextLine();
 
-            if (resposta.equals("2")) {
+            if (resposta.equalsIgnoreCase("1")) {
+              continue;
+            } else if (resposta.equals("2")) {
                 System.out.println("Voltando!");
                 pararWhile.parar = true;
                 Thread.sleep(500);
